@@ -29,3 +29,6 @@ for _ in range(20):
     picam2.set_controls({"ScalerCrop": offset + size})
 
 time.sleep(2)
+
+
+print("stop")
